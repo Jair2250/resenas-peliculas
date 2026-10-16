@@ -17,7 +17,7 @@ const peliculas = [
   },
   {
     id: 3, titulo: "Spider-Man: A través del Spider-Verso", anio: 2023, fecha: "2023-06-02", genero: "Animación",
-    calificacion: 8.6, director: "Joaquim Dos Santos, Kemp Powers y Justin K. Thompson", duracion: "140 minutos",
+    calificacion: 8.6, director: "Joaquim Dos Santos, Kemp Powers y Justin K. Thompson", duracion: "140 minutos", plataforma: "Netflix",
     poster: "img/spiderverse.jpg",
     sinopsis: "Miles Morales vuelve a encontrarse con otros Spider-Man y se enfrenta a una aventura que lo llevará a descubrir distintas realidades y a tomar decisiones difíciles.",
     actores: "Shameik Moore, Hailee Steinfeld, Brian Tyree Henry",
@@ -25,7 +25,7 @@ const peliculas = [
   },
   {
     id: 4, titulo: "Alerta Roja", anio: 2021, fecha: "2021-11-05", genero: "Acción",
-    calificacion: 8.3, director: "Rawson Marshall Thurber", duracion: "118 minutos",
+    calificacion: 8.3, director: "Rawson Marshall Thurber", duracion: "118 minutos", plataforma: "Netflix",
     poster: "img/Alerta_roja.jpg",
     sinopsis: "Un agente del FBI debe colaborar con un famoso ladrón de arte para capturar a una escurridiza ladrona que siempre está un paso adelante.",
     actores: "Dwayne Johnson, Ryan Reynolds, Gal Gadot",
@@ -33,7 +33,7 @@ const peliculas = [
   },
   {
     id: 5, titulo: "The Walking Dead", anio: 2010, fecha: "2010-10-31", genero: "Acción",
-    calificacion: 8.1, director: "Frank Darabont", duracion: "11 temporadas",
+    calificacion: 8.1, director: "Frank Darabont", duracion: "11 temporadas", plataforma: "Netflix",
     poster: "img/Thewalkingdead.jpg",
     sinopsis:"Rick Grimes despierta de un coma y descubre que el mundo ha sido invadido por zombis. Junto con otros sobrevivientes, deberá luchar para mantenerse con vida.",
     actores: "Andrew Lincoln, Norman Reedus, Melissa McBride",
