@@ -3,9 +3,9 @@ const peliculas = [
     id: 1, titulo: "Dune: Parte dos", anio: 2024, fecha: "2024-03-01", genero: "Ciencia ficción",
     calificacion: 8.5, director: "Denis Villeneuve", duracion: "166 minutos",plataforma: "HBO MAX",
     poster: "img/Dune2.jpg",
-    sinopsis: "Paul Atreides se une a Chani y a los Fremen mientras busca venganza contra quienes destruyeron a su familia. En el desierto deberá tomar decisiones que pueden cambiar el destino del universo.",
+    sinopsis: "Paul Atreides se une a Chani y a los Fremen mientras busca venganza contra quienes destruyeron a su familia.",
     actores: "Timothée Chalamet, Zendaya, Rebecca Ferguson, Austin Butler",
-    resena: "Una aventura visual impresionante, con grandes escenas y una historia que mezcla política, destino y supervivencia."
+    resena: "Una aventura visual  con escenas y una historia que mezcla política, destino y supervivencia."
   },
   {
     id: 2, titulo: "Interestelar", anio: 2014, fecha: "2014-11-07", genero: "Ciencia ficción",
@@ -21,7 +21,7 @@ const peliculas = [
     poster: "img/spiderverse.jpg",
     sinopsis: "Miles Morales vuelve a encontrarse con otros Spider-Man y se enfrenta a una aventura que lo llevará a descubrir distintas realidades y a tomar decisiones difíciles.",
     actores: "Shameik Moore, Hailee Steinfeld, Brian Tyree Henry",
-    resena: "Destaca por su estilo visual creativo, su ritmo y una historia sobre la identidad y la responsabilidad."
+    resena: "Estilo visual creativo y una historia sobre la identidad y la responsabilidad."
   },
   {
     id: 4, titulo: "Alerta Roja", anio: 2021, fecha: "2021-11-05", genero: "Acción",
@@ -37,15 +37,15 @@ const peliculas = [
     poster: "img/Thewalkingdead.jpg",
     sinopsis:"Rick Grimes despierta de un coma y descubre que el mundo ha sido invadido por zombis. Junto con otros sobrevivientes, deberá luchar para mantenerse con vida.",
     actores: "Andrew Lincoln, Norman Reedus, Melissa McBride",
-    resena:  "Una serie llena de suspenso, acción y momentos emocionantes que muestra cómo las personas luchan por sobrevivir en un mundo peligroso."
+    resena:  "Una serie de suspenso, acción."
   },
   {
     id: 6, titulo: "Frankenstein", anio: 2025, fecha: "2025-11-07", genero: "Terror",
     calificacion: 8.4, director: "Guillermo del Toro", duracion: "149 minutos", plataforma: "Netflix",
     poster: "img/Frankenstein.jpg",
-    sinopsis: " brillante crea una criatura mediante un experimento que termina teniendo consecuencias inesperadas. La historia explora la ambición, la soledad y lo que significa ser humano.",
+    sinopsis: " Un cientifico crea una criatura mediante un experimento que termina teniendo consecuencias inesperadas. La historia explora la ambición, la soledad y lo que significa ser humano.",
     actores: "Oscar Isaac, Jacob Elordi, Mia Goth",
-    resena: "Una historia oscura que combina terror y drama, explorando la relación entre el creador y su criatura."
+    resena: "Una historia oscura que combina terror y drama."
   }
 ];
 
