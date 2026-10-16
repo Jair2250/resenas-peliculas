@@ -43,7 +43,7 @@ const peliculas = [
     id: 6, titulo: "Frankenstein", anio: 2025, fecha: "2025-11-07", genero: "Terror",
     calificacion: 8.4, director: "Guillermo del Toro", duracion: "149 minutos", plataforma: "Netflix",
     poster: "img/Frankenstein.jpg",
-    sinopsis: "Un científico brillante crea una criatura mediante un experimento que termina teniendo consecuencias inesperadas. La historia explora la ambición, la soledad y lo que significa ser humano.",
+    sinopsis: " brillante crea una criatura mediante un experimento que termina teniendo consecuencias inesperadas. La historia explora la ambición, la soledad y lo que significa ser humano.",
     actores: "Oscar Isaac, Jacob Elordi, Mia Goth",
     resena: "Una historia oscura que combina terror y drama, explorando la relación entre el creador y su criatura."
   }
